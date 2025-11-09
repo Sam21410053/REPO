@@ -1,0 +1,3 @@
+This is info.txt
+It contains information
+This is h2 branch
